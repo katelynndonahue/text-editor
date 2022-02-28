@@ -15,6 +15,7 @@ A text editor that runs in the browser with or without internet that reliable st
 ## Installation
 
 npm run start: dev
+- Heroku Deployed Link
 
 ## Usage
 
