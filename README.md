@@ -20,7 +20,7 @@ npm run start: dev
 ## Usage
 
     ```md
-    ![walk through video]<a href="https://drive.google.com/file/d/1feMCuUlgqDqnlW5414BD5lLYjnumvBp7/view">
+    ![walk through video]<a href="https://drive.google.com/file/d/1HfZ90SfADILDaNPh_1dubTPfpzefqpPX/view">
 
     ![heroku link] <a href="https://damp-journey-22682.herokuapp.com/">
     ```
